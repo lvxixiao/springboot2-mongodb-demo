@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: lvxixiao-demo-mongodb
+
+swagger:
+  basePackage: lvxixiao.api
